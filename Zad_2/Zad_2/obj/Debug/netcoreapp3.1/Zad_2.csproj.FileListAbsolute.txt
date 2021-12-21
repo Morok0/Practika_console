@@ -1,0 +1,14 @@
+D:\Studia\Zad_2\Zad_2\bin\Debug\netcoreapp3.1\Zad_2.exe
+D:\Studia\Zad_2\Zad_2\bin\Debug\netcoreapp3.1\Zad_2.deps.json
+D:\Studia\Zad_2\Zad_2\bin\Debug\netcoreapp3.1\Zad_2.runtimeconfig.json
+D:\Studia\Zad_2\Zad_2\bin\Debug\netcoreapp3.1\Zad_2.runtimeconfig.dev.json
+D:\Studia\Zad_2\Zad_2\bin\Debug\netcoreapp3.1\Zad_2.dll
+D:\Studia\Zad_2\Zad_2\bin\Debug\netcoreapp3.1\Zad_2.pdb
+D:\Studia\Zad_2\Zad_2\obj\Debug\netcoreapp3.1\Zad_2.csproj.AssemblyReference.cache
+D:\Studia\Zad_2\Zad_2\obj\Debug\netcoreapp3.1\Zad_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\Zad_2\Zad_2\obj\Debug\netcoreapp3.1\Zad_2.AssemblyInfoInputs.cache
+D:\Studia\Zad_2\Zad_2\obj\Debug\netcoreapp3.1\Zad_2.AssemblyInfo.cs
+D:\Studia\Zad_2\Zad_2\obj\Debug\netcoreapp3.1\Zad_2.csproj.CoreCompileInputs.cache
+D:\Studia\Zad_2\Zad_2\obj\Debug\netcoreapp3.1\Zad_2.dll
+D:\Studia\Zad_2\Zad_2\obj\Debug\netcoreapp3.1\Zad_2.pdb
+D:\Studia\Zad_2\Zad_2\obj\Debug\netcoreapp3.1\Zad_2.genruntimeconfig.cache
